@@ -17,7 +17,7 @@ Focus:
  > Data type verification
  > Data cleaning and preprocessing
 
-"View Task 1" (./Level-1/Task-1-Data-Cleaning/)
+[View Task 1](./Level-1/Task-1-Data-Cleaning/)
 
 ## Task 2 — Exploratory Data Analysis (EDA)
 
@@ -31,7 +31,7 @@ Focus:
  > Temporal analysis
  > Data visualization
 
-"View Task 2" (./Level-1/Task-2-EDA/)
+[View Task 2](./Level-1/Task-2-EDA/)
 
 ## Tools & Technologies
 
