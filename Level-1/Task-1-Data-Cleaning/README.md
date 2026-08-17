@@ -37,9 +37,9 @@ The following steps were performed:
 
 ## Files
 
- > "Codveda_Level_1_Task_1_Data_Cleaning.ipynb"; Jupyter Notebook containing the analysis and preprocessing steps.
- > "Codveda_Level_1_Task_1_Data_Cleaning.pdf"; PDF version of the completed notebook.
- > "cleaned_sentiment_dataset.csv"; Cleaned dataset used for further analysis.
+ > [Jupyter Notebook](./Codveda_Level_1_Task_1_Data_Cleaning.ipynb); Jupyter Notebook containing the analysis and preprocessing steps.
+ > [PDF Report](./Codveda_Level_1_Task_1_Data_Cleaning.pdf); PDF version of the completed notebook.
+ > [Cleaned Dataset](./cleaned_sentiment_dataset.csv); Cleaned dataset used for further analysis.
 
 ## Outcome
 
